@@ -482,3 +482,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Catch build outputs in any nested folder structure
+**/[Bb]in/
+**/[Oo]bj/
